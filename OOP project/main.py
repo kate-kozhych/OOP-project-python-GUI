@@ -1,7 +1,5 @@
 # Autor: Katsiaryna Kozhych
-# Nazwa przedmiotu: Paradygmat programowania obiektowego
-# Numer grupy: 3
-# Czas zajęć: wtorek godz. 10:00
+
 
 
 from style import my_font, font_title  # Importowanie modułów i funkcji
